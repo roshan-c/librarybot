@@ -1,2 +1,2 @@
 # librarybot
- N/A
+A Discord bot written in Python to store information about cheats.
